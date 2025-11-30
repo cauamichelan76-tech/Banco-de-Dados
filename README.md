@@ -69,7 +69,7 @@ Caso deseje, insira aqui a imagem do DER (ex.: DER.png).
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/nome-do-repo
+git clone 
 
 
 Abra o arquivo create_tables.sql no Workbench.
