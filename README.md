@@ -67,7 +67,7 @@ Caso deseje, insira aqui a imagem do DER (ex.: DER.png).
 
 🔧 Como Executar o Projeto
 
-Clone o repositório:
+Clone o repositório: https://github.com/cauamichelan76-tech/Banco-de-Dados.git
 
 git clone 
 
